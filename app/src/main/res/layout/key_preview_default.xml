@@ -2,12 +2,11 @@
 <TextView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:gravity="center"
-    android:background="@color/keyboard_preview_default"
+    android:background="@drawable/preview_default"
     android:textColor="@android:color/white"
-    android:textStyle="italic"
+    android:textStyle="bold"
     android:textSize="@dimen/key_preview_text"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     >
-
 </TextView>

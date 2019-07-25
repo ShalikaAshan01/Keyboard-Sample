@@ -6,6 +6,6 @@
 
     <color name="key_background_color_default">#424242</color>
     <color name="keyboard_divider_default">#212121</color>
-    <color name="keyboard_pressed_default">#616161</color>
+    <color name="key_hover_default">#757575</color>
     <color name="keyboard_preview_default">#424242</color>
 </resources>

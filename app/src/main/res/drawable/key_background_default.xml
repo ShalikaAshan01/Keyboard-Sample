@@ -7,5 +7,5 @@
         android:drawable="@drawable/normal_default"/>
     <item
         android:state_pressed="true"
-        android:drawable="@drawable/pressed_default"/>
+        android:drawable="@drawable/hover_default"/>
 </selector>
