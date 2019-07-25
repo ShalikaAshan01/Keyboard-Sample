@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:right="2dp" android:left="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/keyboard_divider_default"/>
+        </shape>
+    </item>
+
+    <item android:bottom="@dimen/key_margin_bottom" android:top="@dimen/key_margin_top" android:right="@dimen/key_margin_right" android:left="@dimen/key_margin_left">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/key_background_color_default"/>
+            <corners android:radius="@dimen/key_radius"/>
+            <padding android:left="0dp" android:top="0dp" android:right="0dp" android:bottom="0dp" />
+        </shape>
+    </item>
+
+
+</layer-list>

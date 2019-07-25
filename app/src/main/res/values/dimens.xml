@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_radius">10dp</dimen>
+    <dimen name="key_margin_bottom">4dp</dimen>
+    <dimen name="key_margin_top">4dp</dimen>
+    <dimen name="key_margin_right">3dp</dimen>
+    <dimen name="key_margin_left">3dp</dimen>
+
+    <dimen name="key_preview_text">30sp</dimen>
+</resources>
